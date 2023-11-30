@@ -1,6 +1,7 @@
 {
     "name": "Shield of Oberon",
-    "guid": "df7f4d28-b719-4656-8183-1c6d08e92d3e",
+    "guid": "25685676-3167-4d3b-aa2f-35e2f4135443",
+    "database_guid": "db0ae0e8-fc50-796b-1968-886710f3208c",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -11,8 +12,9 @@
     "asset_directory": "Assets",
     "binary_directory": "bin",
     "library_directory": "lib",
-    "thumbnail_guid": "f219ecab-2683-4910-8f8e-9309bbe2eb9f",
-    "default_scene": "3764e7df-eec8-479d-a48f-a91a25d38361",
+    "thumbnail_guid": "7e266e43-8b13-4094-bd36-5504231a902f",
+    "default_scene": "1f455703-c968-4626-bbee-474c0ebd0de2",
+    "tags": [ "f5777f96-a43c-4ebd-872a-1eeda5719aaf" ],
     "source": "Project.nproject",
 	"settings": {
 		"5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
