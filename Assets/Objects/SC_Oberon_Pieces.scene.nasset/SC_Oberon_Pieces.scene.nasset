@@ -1,0 +1,776 @@
+{
+    "guid": "76947034-4f89-0efd-20b2-bfc1fb26f6a9",
+    "source": "../SC_Oberon_Pieces.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "74a9525d-4e27-226b-9ca2-8545e88149bf",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Oberon Pieces"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ef201466-c6cd-6314-9a74-57f2beedf3b9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Well"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1100d7b0-d831-7d3d-bfa6-cd38eed58b39"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "52a19854-46bc-fbca-4b86-ed208c115c5c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "House 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "81620a47-f14f-5501-27e3-c157a5aa3996"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "20d66135-960a-08d3-a368-ca24a8610cf9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "House 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1e3123c5-e83c-0384-2759-a6a8db1c7466"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d13c64ca-bc11-fad0-354a-b4e323f9875e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "House 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "043a1eb9-f0c7-b084-b52f-f8b00ebfe165"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "cf1830fa-50c0-98c7-c2c6-62e3d345d79b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stable"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fa1e5978-201f-c44d-0cb8-2137510864f3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c91e1e10-6cc7-c636-4911-c6ddc72a74d4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bell Tower"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "cdb7c042-8151-4766-2809-f479a1364b93"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "35cca869-f79e-650e-e91f-89b36bbb4fc9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f3bf9f2b-f53d-091d-3852-075fc60f0904"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f7eeb33f-77ef-532c-eafb-151de66b2423",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Path Straight"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6959fbb1-ffe4-3005-50c2-972e6ad69a8e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c0230b26-9e91-5096-4f78-54d2ebaa0b2b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cart"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "768f4afc-1827-4103-8d47-228f6b3a1b26"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "607b9b30-f6e5-57c0-b273-fcd64276227a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bags"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4f6a84eb-32e0-9aa8-0715-99a21bd1bf15"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "af18d7c9-e39d-707e-5a58-615269405dee",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bag Open"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8e667740-f6f1-f14c-3b7a-a91cbb1ff191"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "415cb101-83c9-51a7-f7d5-81edd8a03297",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bag"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b44aa665-419c-9801-b7d0-e705d27bb6bf"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "cd346285-265d-9f4e-5fe9-c1d66b0810e7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bench 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bc53913d-5b7b-2eb2-2a39-4e9f9709f42a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1560b7b2-21db-c88d-6303-f01341fdb45b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bench 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c32582d5-6e96-4837-7df1-683e42ed7850"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "aff3f4ab-9321-f3a8-1a29-b7d689a43ad7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Market Stand 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "32b098a3-da79-5d5d-ced2-8871cf19c577"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "60193954-722b-6313-7591-8aebc848e1bf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Market Stand 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0c257fd4-8f86-af60-65fe-4ac0f16ba1f3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0ea4b755-eecb-b811-d15c-b356e59fa046",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Blacksmith"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1cfc9803-7253-0bd3-3020-f17391ad8e14"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3a587788-b403-723b-0a0a-60c60e0dac80",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Smoke 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b8b30d9a-d3f0-bded-0ab5-a07d24d6ee92"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2bba41e0-a05c-09a2-18b7-5186af3e2db5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Smoke 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1005ad37-239b-b917-28e8-e9976f176777"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3adea395-0da7-59ed-a244-b3ba1f2162f0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Package 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "aba7e024-2fc5-3fe8-5913-99da55253eb4"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f224b926-a5ce-eeb1-db0c-56cea2c42aff",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Package 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c5ddd503-3569-55fc-80e9-8284d8cdad50"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ec361fa0-2efc-8f3c-41b2-fdda3575660f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Barrel"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "90a11eaa-3eb9-32ef-367f-2a0f3e327155"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c18ff93d-939e-6eb9-a889-e168bc8b8595",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Inn"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9b0af5ad-9913-4f44-91fd-52b80a813143"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1bf06a2d-f44c-7cbd-ffd0-a128fd75bfab",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mill Blades"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "65ddc295-5a7e-084c-2c3f-eab86b4f5180"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "50977855-cbe1-1ac4-62da-8412d0452b28",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mill Base"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e55d26ee-9a13-9b33-c2fe-8934bf57833f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7071604d-2e1a-7a26-b5b0-8727a8006008",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stairs"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9cee4097-4098-ae6b-91ba-83498bb9827f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "548cbd79-a0ac-bff2-6ecc-57d0fa86f08d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Path Square"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "82753062-3e6d-4350-37fa-d7b6c3ff7b57"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "57c6327c-423d-922e-ed82-70b7f44f5040",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hay"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "79bed76a-f7a2-6ff9-6aef-8cb505fba477"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "782dbdce-0fde-f7dd-9c5a-e9ce9e2d8133",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "cff33a9a-ce33-a6af-5137-55ad11daa920"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6dee75bd-817c-74ba-2a00-55435430563d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Grass 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e2ab3565-447f-841e-9f59-86121ef61474"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9c2a8cf5-02ad-3152-3fa5-0c4981e296cd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Grass 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a858d413-828f-5149-2340-61304644a5cc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9f172cff-eca6-2c1f-aba1-ebfc31f35a8c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Grass 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a34e8131-d35f-252f-09dd-e544b92a37d9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e6ac7abd-580c-f947-ec42-e6181addf9bb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Plant 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5bfa344f-4e61-2731-19f2-e873ca0ea0b1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6503bc66-8f83-9a97-fdfa-8d28fa0ef660",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Plant 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6aa3a9e8-a2d7-d3f3-0ee9-1c64f2bff105"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a11155f6-5af3-86a0-aedb-6691d5677896",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Plant 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ecd68938-2de1-79b1-1209-860b3f586d02"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9c3f43db-5b89-ac7d-af38-58b386cd674c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Plant 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2926bd36-39aa-df11-a940-4b2d76adfbb3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b7200319-74b3-235e-7f9a-4a67557a6208",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pine Tree 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d99824bf-5192-6eb7-d526-a8cd6460ac2e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "50778c17-6b0b-6465-5a05-2bda14d31f3e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pine Tree 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7e4a5d7e-1055-2611-ba81-290f128f1260"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4a20ae18-77fd-4b19-f346-c9f31c3afcb5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stump"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c75ab28e-b883-237e-5eb9-ba2086fad351"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a5b86ff9-3c96-37ac-515d-ac461aebb7dd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stump Moss"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "25626232-3418-92c6-6bee-800fa8d2da02"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "579a402b-a864-3a49-e081-0e8115470e98",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9f7d3e85-bc74-6954-89d2-90a84d1db7de"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c595ae27-d6e4-fd86-7692-afe813bccfce",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a8029228-ece0-1e39-7579-d65b92c8b788"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f2bc2fc8-2eb3-3f39-2f00-85842a6e3768",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2b62ebe2-baf1-c325-1de8-27ab7556de88"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e2b69b93-b4fa-970d-0acb-6429fc6a0975",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0fe5046d-0d74-05a0-1c2c-734727d7173b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "aea25db7-a30e-e886-b40f-202f8bbb41f4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock 5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6f071254-804f-3a5e-c05a-f8dddee141ca"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3c2e7451-fe8f-f53b-0dbf-95698b2425b3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock 6"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c9edb0cd-59ef-da6d-1f5f-5b7fdfd7680d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "25232fcf-b50b-2c2c-0650-117600a70576",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock 7"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6a362679-0119-9dbc-c6d6-4fbca65ce5d6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "97d9b1ab-aea6-2d27-5ba6-466e39ecdfa9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock 8"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6dd3bed9-bdcc-d5df-5c81-6ab07686ad85"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f16fbb32-78a7-53d8-9372-1982664fa217",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock 9"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8e03edf3-8745-114f-0cff-86a4005754d1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c30e6424-535b-7206-5486-1f85c1482093",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock 10"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "43c2e425-4a41-f4b7-4d6d-8c371ae9dca9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "912db79b-98d6-ff1f-edfb-3a8ae06d3da1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock 11"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "340cb557-379a-3ede-a1d0-a1fd89c8f045"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f2c1baaf-f419-0e5d-d59e-d5c4fb39dc3c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bonfire"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "492081f0-491b-f725-035a-0b6c40182f9d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e1efac7d-5d32-2d57-8189-1406609621b7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sawmill"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0e8cd502-42fa-b561-2ed6-c9fc3b75872b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ce43c404-079e-a591-ac45-7d8e659a1c17",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "House 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4a8458b1-de21-c190-59b4-e8e3e276061b"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "76947034-4f89-0efd-20b2-bfc1fb26f6a9"
+    },
+    "dependencies": [
+        "1100d7b0-d831-7d3d-bfa6-cd38eed58b39",
+        "81620a47-f14f-5501-27e3-c157a5aa3996",
+        "1e3123c5-e83c-0384-2759-a6a8db1c7466",
+        "043a1eb9-f0c7-b084-b52f-f8b00ebfe165",
+        "fa1e5978-201f-c44d-0cb8-2137510864f3",
+        "cdb7c042-8151-4766-2809-f479a1364b93",
+        "f3bf9f2b-f53d-091d-3852-075fc60f0904",
+        "6959fbb1-ffe4-3005-50c2-972e6ad69a8e",
+        "768f4afc-1827-4103-8d47-228f6b3a1b26",
+        "4f6a84eb-32e0-9aa8-0715-99a21bd1bf15",
+        "8e667740-f6f1-f14c-3b7a-a91cbb1ff191",
+        "b44aa665-419c-9801-b7d0-e705d27bb6bf",
+        "bc53913d-5b7b-2eb2-2a39-4e9f9709f42a",
+        "c32582d5-6e96-4837-7df1-683e42ed7850",
+        "32b098a3-da79-5d5d-ced2-8871cf19c577",
+        "0c257fd4-8f86-af60-65fe-4ac0f16ba1f3",
+        "1cfc9803-7253-0bd3-3020-f17391ad8e14",
+        "b8b30d9a-d3f0-bded-0ab5-a07d24d6ee92",
+        "1005ad37-239b-b917-28e8-e9976f176777",
+        "aba7e024-2fc5-3fe8-5913-99da55253eb4",
+        "c5ddd503-3569-55fc-80e9-8284d8cdad50",
+        "90a11eaa-3eb9-32ef-367f-2a0f3e327155",
+        "9b0af5ad-9913-4f44-91fd-52b80a813143",
+        "65ddc295-5a7e-084c-2c3f-eab86b4f5180",
+        "e55d26ee-9a13-9b33-c2fe-8934bf57833f",
+        "9cee4097-4098-ae6b-91ba-83498bb9827f",
+        "82753062-3e6d-4350-37fa-d7b6c3ff7b57",
+        "79bed76a-f7a2-6ff9-6aef-8cb505fba477",
+        "cff33a9a-ce33-a6af-5137-55ad11daa920",
+        "e2ab3565-447f-841e-9f59-86121ef61474",
+        "a858d413-828f-5149-2340-61304644a5cc",
+        "a34e8131-d35f-252f-09dd-e544b92a37d9",
+        "5bfa344f-4e61-2731-19f2-e873ca0ea0b1",
+        "6aa3a9e8-a2d7-d3f3-0ee9-1c64f2bff105",
+        "ecd68938-2de1-79b1-1209-860b3f586d02",
+        "2926bd36-39aa-df11-a940-4b2d76adfbb3",
+        "d99824bf-5192-6eb7-d526-a8cd6460ac2e",
+        "7e4a5d7e-1055-2611-ba81-290f128f1260",
+        "c75ab28e-b883-237e-5eb9-ba2086fad351",
+        "25626232-3418-92c6-6bee-800fa8d2da02",
+        "9f7d3e85-bc74-6954-89d2-90a84d1db7de",
+        "a8029228-ece0-1e39-7579-d65b92c8b788",
+        "2b62ebe2-baf1-c325-1de8-27ab7556de88",
+        "0fe5046d-0d74-05a0-1c2c-734727d7173b",
+        "6f071254-804f-3a5e-c05a-f8dddee141ca",
+        "c9edb0cd-59ef-da6d-1f5f-5b7fdfd7680d",
+        "6a362679-0119-9dbc-c6d6-4fbca65ce5d6",
+        "6dd3bed9-bdcc-d5df-5c81-6ab07686ad85",
+        "8e03edf3-8745-114f-0cff-86a4005754d1",
+        "43c2e425-4a41-f4b7-4d6d-8c371ae9dca9",
+        "340cb557-379a-3ede-a1d0-a1fd89c8f045",
+        "492081f0-491b-f725-035a-0b6c40182f9d",
+        "0e8cd502-42fa-b561-2ed6-c9fc3b75872b",
+        "4a8458b1-de21-c190-59b4-e8e3e276061b"
+    ]
+}
